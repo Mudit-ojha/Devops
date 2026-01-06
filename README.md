@@ -1,4 +1,4 @@
-# DevOps Practice Repository
+# DevOps Repository
 
 This repository contains my hands-on practice and automation scripts related to DevOps.
 
@@ -11,10 +11,12 @@ This repository contains my hands-on practice and automation scripts related to 
 
 ## Tools & Technologies
 - Linux
-- Git & GitHub
 - Shell scripting
+- ansible
+- Git & GitHub
 - AWS (learning)
 - Docker & Kubernetes (upcoming)
+  
 
 ## Purpose
 This repository is created to practice real-world DevOps concepts and automation.
